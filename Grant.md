@@ -66,12 +66,9 @@ This will be working quite similiar to this PoC of a [gassless webwallet utilizi
 
 Our goal for this proposal is to make linkdrops work with the Gnosis Safe end-to-end, as well as deliver a generalized meta-link SDK implementation that other developers can use to integrate interoperable meta-linkdrops into their projects.
 
-### Rationale
-
-The general rationale for meta-linkdrops is enabling to send digital assets and/or Universal Login invite link to users before they have any Ethereum address yet. This will enable new users to get onboarded to the entire dapp ecosystem by only clicking a link or scanning a QR code. Below key-scheme example is used from our Universal Login implementation:
-
-
 ### Assumptions
+
+We see the below scheme we developed for Universal Login + ENS, can also apply to the Gnosis Safe Wallet Contract.
 
 In order for the invite functionality scheme to work in practice, the following assumptions needs to be valid: 
 
