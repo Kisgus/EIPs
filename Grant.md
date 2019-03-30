@@ -109,7 +109,7 @@ We described [a bit about us and our story](https://medium.com/@Gfriiis/linkdrop
 
 - Q2: Meta-linkdrop module to Gnosis Safe Contracts, estimated $15.000
 
-- Q2: Relay implementation, preferabilities extending Gnosis backend, estimated $10.000
+- Q2: Relay implementation, assumed to extending on existing Gnosis backend, estimated $10.000
 
 - Q3: Meta-Linkdrop SDK, estimated $15.000 
 
