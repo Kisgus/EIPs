@@ -92,7 +92,7 @@ In order for the invite functionality scheme to work in practice, the following 
 5. The Relayer calls Alice’s identity contract
 6. Then Alice’s identity contract creates an identity contract for Bob and sends a Robot
 7. In addition, Bob can now also help Alice recover access to her identity contract in the future using a social key recovery mechanism
-8. Bob now got the Robot he wanted, and in addition has a Universal Login Contract and ENS name 9. which allows him to use the best of web3 to login to all other Ethereum dapps.
+8. Bob now got the Robot he wanted, and in addition has a Universal Login Contract and ENS name which allows him to use the best of web3 to login to all other Ethereum dapps.
 
 
 ### Team description
