@@ -105,22 +105,12 @@ We described [a bit about us and our story](https://medium.com/@Gfriiis/linkdrop
 
 
 ### Timeline, Milestones and Deliverables
-_Detailed description of your timeline milestones and the corresponding payouts_
-
-**Phase I**  			_Outline the different phases_
-
-**Deliverables** 			_What features will be implemented_
-
-**Time and Price Estimate**	_How long will it take and what is the estimated price_
-
-**Phase II**  			_Outline the different phases_
-
-**Deliverables** 			_What features will be implemented_
-
-**Time and Price Estimate**	_How long will it take and what is the estimated price_
-
-**Phase III**  			_..._
 
 
-### Others	 
-Anything else you want to share with us
+- Q2: Meta-linkdrop module to Gnosis Safe Contracts, estimated $15.000
+
+- Q2: Relay implementation, preferabilities extending Gnosis backend, estimated $10.000
+
+- Q3: Meta-Linkdrop SDK, estimated $15.000 
+
+- Q3: Front-end Javascript libraries, estimated $10.000 
