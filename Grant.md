@@ -66,18 +66,8 @@ This will be working quite similiar to this PoC of a [gassless webwallet utilizi
 
 Our goal for this proposal is to make linkdrops work with the Gnosis Safe end-to-end, as well as deliver a generalized meta-link SDK implementation that other developers can use to integrate interoperable meta-linkdrops into their projects.
 
-### Assumptions
 
-We see the below scheme we developed for Universal Login + ENS, can also apply to the Gnosis Safe Wallet Contract.
-
-In order for the invite functionality scheme to work in practice, the following assumptions needs to be valid: 
-
-- Alice has an EIP 1078 identity contract and wants to send an ERC721 or ERC20 token to Bob
-- Bob is a new user without ETH, wallet or any prior crypto knowledge
-- Alice share the QR code or invite link with Bob over a secure channel e.g Signal
-- There is a proper incentive in place (on a user, dapp or relay level) to pay gas
-
-### Key Scheme
+### An example of meta-linkdrop including Universal Login, ENS, ERC20 and ERC721 
 
 ![invite scheme](https://user-images.githubusercontent.com/18598519/48316096-10f8ab00-e5df-11e8-89f0-63a0397c904c.png)
 
@@ -90,6 +80,15 @@ In order for the invite functionality scheme to work in practice, the following 
 6. Then Alice’s identity contract creates an identity contract for Bob and sends a Robot
 7. In addition, Bob can now also help Alice recover access to her identity contract in the future using a social key recovery mechanism
 8. Bob now got the Robot he wanted, and in addition has a Universal Login Contract and ENS name which allows him to use the best of web3 to login to all other Ethereum dapps.
+
+### Assumptions
+
+In order for the invite functionality scheme to work in practice, the following assumptions needs to be valid: 
+
+- Alice has an EIP 1078 identity contract and wants to send an ERC721 or ERC20 token to Bob
+- Bob is a new user without ETH, wallet or any prior crypto knowledge
+- Alice share the QR code or invite link with Bob over a secure channel e.g Signal
+- There is a proper incentive in place (on a user, dapp or relay level) to pay gas
 
 
 ### Team description
