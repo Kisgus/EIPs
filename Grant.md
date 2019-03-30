@@ -111,3 +111,7 @@ We described [a bit about us and our story](https://medium.com/@Gfriiis/linkdrop
 - Q3: Meta-Linkdrop SDK, estimated $15.000 
 
 - Q3: Front-end Javascript libraries, estimated $10.000 
+
+### Existing Codebase
+
+https://github.com/LinkdropProtocol
